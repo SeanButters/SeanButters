@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! 👋
+### My name is Sean and I'm currently studying computer science at the Unversity of Cincinnati
 <!--
 **SeanButters/SeanButters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
